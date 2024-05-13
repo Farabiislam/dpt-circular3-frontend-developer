@@ -11,7 +11,7 @@ const QueryOptions = () => {
         <button className="border border-black px-5 py-1">Multi city</button>
       </div>
       <div className="h-[2px] bg-hrcolor "></div>
-      <div className="flex gap-2 justify-center my-2 ">
+      <div className="flex gap-4 justify-center my-2 ">
         <input
           className="mybutton outline-none "
           type="text"
