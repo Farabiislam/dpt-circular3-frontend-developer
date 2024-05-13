@@ -1,6 +1,6 @@
 # Flight Data Parse
 
-This project fetches flight data from a JSON file and displays it in a tabular format using React.
+This project fetches flight data from a Text file and displays it in a tabular format using React.
 
 ## How to Run the Project
 
